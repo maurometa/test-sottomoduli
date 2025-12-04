@@ -1,3 +1,3 @@
 [submodule "sottomodulo1"]
 	path = sottomodulo1
-	url = ../sottomodulo1
+	url = https://github.com/maurometa/sottomodulo1.git
